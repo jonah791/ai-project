@@ -1,0 +1,22 @@
+# OpenClaw config (contains API keys)
+.openclaw/
+openclaw.json
+
+# Memory (personal data)
+memory/
+MEMORY.md
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
